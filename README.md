@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi there, I'm <a href=" " target="_blank">Lina</a>
 
 
